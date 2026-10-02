@@ -1,0 +1,14 @@
+{
+  "merchant": "",
+  "tanggal": "",
+  "item": [
+    {
+      "nama": "Buku",
+      "jumlah": 1,
+      "harga": 50000
+    }
+  ],
+  "subtotal": 50000,
+  "pajak": 0,
+  "total": 50000
+}
